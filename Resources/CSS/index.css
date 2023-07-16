@@ -52,7 +52,7 @@ h4 {
   align-items: ce;
   height: 700px;
   width: 1200px;
-  background-image: URL(./Resources/IMG/2.jpg);
+  background-image: URL("./Resources/IMG/2.jpg");
   background-size: cover; 
   background-position: center;
 }
@@ -82,7 +82,7 @@ div img{
 }
 
 .locations{
-  background-image: URL(./Resources/IMG/7.jpg);
+  background-image: URL("./Resources/IMG/7.jpg");
   background-size: cover; 
   background-position: center;
   height: 500px;
